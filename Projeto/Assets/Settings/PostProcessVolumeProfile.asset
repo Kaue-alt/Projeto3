@@ -50,10 +50,10 @@ MonoBehaviour:
     value: 1
   toneCurveToeLength:
     overrideState: 1
-    value: 0.282
+    value: 0.712
   toneCurveShoulderStrength:
     overrideState: 1
-    value: 1
+    value: 0.184
   toneCurveShoulderLength:
     overrideState: 1
     value: 0
@@ -122,14 +122,14 @@ MonoBehaviour:
     overrideState: 0
     value: 100
   lift:
-    overrideState: 0
-    value: {x: 1, y: 1, z: 1, w: 0}
+    overrideState: 1
+    value: {x: 1, y: 0.53329194, z: 0.91247356, w: 0}
   gamma:
-    overrideState: 0
-    value: {x: 1, y: 1, z: 1, w: 0}
+    overrideState: 1
+    value: {x: 0.8116466, y: 1, z: 0.97797376, w: 0}
   gain:
-    overrideState: 0
-    value: {x: 1, y: 1, z: 1, w: 0}
+    overrideState: 1
+    value: {x: 0.7676752, y: 0.6179191, z: 1, w: 0}
   masterCurve:
     overrideState: 0
     value:
@@ -1357,7 +1357,7 @@ MonoBehaviour:
     value: 9
   keyValue:
     overrideState: 1
-    value: 1
+    value: 0.35
   eyeAdaptation:
     overrideState: 0
     value: 0
@@ -1385,13 +1385,13 @@ MonoBehaviour:
     value: 1
   focusDistance:
     overrideState: 1
-    value: 2
+    value: 10
   aperture:
     overrideState: 0
     value: 0.1
   focalLength:
     overrideState: 1
-    value: 1
+    value: 55
   kernelSize:
     overrideState: 0
     value: 1
@@ -1416,7 +1416,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 3
+    value: 4
   color:
     overrideState: 1
     value: {r: 0, g: 0, b: 0, a: 1}
@@ -1462,10 +1462,10 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 1
+    value: 2
   threshold:
     overrideState: 1
-    value: 1
+    value: 5
   softKnee:
     overrideState: 0
     value: 0.5
@@ -1518,10 +1518,10 @@ MonoBehaviour:
     value: {x: 0.5, y: 0.5}
   intensity:
     overrideState: 1
-    value: 0.25
+    value: 0.242
   smoothness:
     overrideState: 1
-    value: 1
+    value: 0.774
   roundness:
     overrideState: 1
     value: 1
