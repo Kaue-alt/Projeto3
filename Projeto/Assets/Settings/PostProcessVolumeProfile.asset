@@ -44,7 +44,7 @@ MonoBehaviour:
     defaultState: 1
   tonemapper:
     overrideState: 1
-    value: 3
+    value: 2
   toneCurveToeStrength:
     overrideState: 1
     value: 1
@@ -122,14 +122,14 @@ MonoBehaviour:
     overrideState: 0
     value: 100
   lift:
-    overrideState: 1
-    value: {x: 1, y: 0.53329194, z: 0.91247356, w: 0}
+    overrideState: 0
+    value: {x: 0.9813662, y: 0.9811195, z: 1, w: 0}
   gamma:
-    overrideState: 1
-    value: {x: 0.8116466, y: 1, z: 0.97797376, w: 0}
+    overrideState: 0
+    value: {x: 0.9756972, y: 0.98814076, z: 1, w: 0}
   gain:
-    overrideState: 1
-    value: {x: 0.7676752, y: 0.6179191, z: 1, w: 0}
+    overrideState: 0
+    value: {x: 0.96095365, y: 0.9613464, z: 1, w: 0}
   masterCurve:
     overrideState: 0
     value:
@@ -1385,13 +1385,13 @@ MonoBehaviour:
     value: 1
   focusDistance:
     overrideState: 1
-    value: 10
+    value: 5
   aperture:
     overrideState: 0
     value: 0.1
   focalLength:
-    overrideState: 1
-    value: 55
+    overrideState: 0
+    value: 42
   kernelSize:
     overrideState: 0
     value: 1
@@ -1416,7 +1416,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 4
+    value: 0
   color:
     overrideState: 1
     value: {r: 0, g: 0, b: 0, a: 1}
@@ -1434,7 +1434,7 @@ MonoBehaviour:
     value: -12
   thicknessModifier:
     overrideState: 1
-    value: 10
+    value: 1
   directLightingStrength:
     overrideState: 1
     value: 0
@@ -1462,10 +1462,10 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 2
+    value: 1
   threshold:
     overrideState: 1
-    value: 5
+    value: 1
   softKnee:
     overrideState: 0
     value: 0.5
