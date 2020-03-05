@@ -186,7 +186,8 @@ ModelImporter:
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
-    extraExposedTransformPaths: []
+    extraExposedTransformPaths:
+    - mixamorig:Hips
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
@@ -245,12 +246,12 @@ ModelImporter:
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 0
+    normalImportMode: 1
     tangentImportMode: 3
     normalCalculationMode: 4
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
-    normalSmoothingSource: 0
+    normalSmoothingSource: 2
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
