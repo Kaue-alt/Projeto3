@@ -1,6 +1,6 @@
 using System;
 using UnityEngine;
-using UnityStandardAssets.CrossPlatformInput;
+
 
 namespace UnityStandardAssets.Characters.ThirdPerson
 {
@@ -25,7 +25,7 @@ namespace UnityStandardAssets.Characters.ThirdPerson
         {
             if (!m_Jump)
             {
-                m_Jump = CrossPlatformInputManager.GetButtonDown("Jump");
+                m_Jump = Input.GetButtonDown("Jump");
             }
         }
 
@@ -34,17 +34,17 @@ namespace UnityStandardAssets.Characters.ThirdPerson
         private void FixedUpdate()
         {
             // read inputs
-            float h = CrossPlatformInputManager.GetAxis("Horizontal")*0.5f;
-            float v = CrossPlatformInputManager.GetAxis("Vertical") * 0.5f;
+            float h = Input.GetAxis("Horizontal")*0.5f;
+            float v = Input.GetAxis("Vertical") * 0.5f;
             bool crouch = Input.GetKey(KeyCode.LeftControl);
              
            
             m_Move = v*transform.forward + h*transform.right;
           
-#if !MOBILE_INPUT
+
 			// walk speed multiplier
 	        if (Input.GetKey(KeyCode.LeftShift)) m_Move *= 2.0f;
-#endif
+
 
             // pass all parameters to the character control script
             m_Character.Move(m_Move, crouch, m_Jump);
