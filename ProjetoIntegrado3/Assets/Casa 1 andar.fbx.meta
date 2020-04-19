@@ -127,6 +127,29 @@ ModelImporter:
     4300040: "ch\xE3o baixo 2"
     4300042: Escada
     4300044: "ch\xE3o 2\xBA andar"
+    6400000: "ch\xE3o 2\xBA andar"
+    6400002: "ch\xE3o baixo 2"
+    6400004: "ch\xE3o normal"
+    6400006: Cube
+    6400008: Cube.001
+    6400010: Cube.002
+    6400012: Cube.003
+    6400014: Cube.004
+    6400016: Cube.005
+    6400018: Cube.006
+    6400020: Cube.007
+    6400022: Cube.008
+    6400024: Cube.010
+    6400026: Cube.011
+    6400028: Cube.012
+    6400030: Escada
+    6400032: Escada principal
+    6400034: Parade sala 2
+    6400036: Parede sala 1
+    6400038: Parede tampa buraco
+    6400040: Parte escada 1
+    6400042: Parte escada 2
+    6400044: Parte escada 3
     10800000: Light
   externalObjects: {}
   materials:
@@ -161,7 +184,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
