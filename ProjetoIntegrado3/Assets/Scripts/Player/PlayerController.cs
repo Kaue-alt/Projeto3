@@ -6,8 +6,8 @@ public class PlayerController : MonoBehaviour
 {
     
    
-    public float walkSpeed = 2;
-    public float runSpeed = 6;
+    public float walkSpeed = 1;
+    public float runSpeed = 2;
     
     public float turnSmoothTime = 0.2f;
     public float speedSmoothTime = 0.1f;

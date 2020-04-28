@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0b4878081afc5f44690420c111c3e3d3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nibuo: {fileID: 7929947279583721718, guid: 5b50c11888d0ed142a05b8728150a044, type: 3}
+  - cameraPlayer: {fileID: 5139361964664450314, guid: 8da6a7a448db874438e96c718a2c0916,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -5,13 +5,15 @@ using UnityEngine;
 public class ThirdPersonCamera : MonoBehaviour
 {
     public bool lockCursor;
-    public float mouseSensitivity =10;
+    public float mouseSensitivity =5;
     public float dstFromTarget = 2;
     public Transform target;
-    public Vector2 pitchMinMax = new Vector2(-40, 85);
+    public Vector2 pitchMinMax = new Vector2(-40, 40);
+
+    
     
 
-    public float rotationSmoothTime = 1.2f;
+    public float rotationSmoothTime = 0.12f;
     Vector3 rotationSmoothVelocity;
     Vector3 currentRotation;
 
@@ -28,6 +30,8 @@ public class ThirdPersonCamera : MonoBehaviour
         }
     }
 
+   
+
     void LateUpdate()
     {
         yaw += Input.GetAxis("Mouse X")*mouseSensitivity;
@@ -40,4 +44,6 @@ public class ThirdPersonCamera : MonoBehaviour
 
         transform.position = target.position - transform.forward * dstFromTarget;
     }
+
+
 }
