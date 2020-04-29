@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 849d5d7d948efb64a8ec58c0257288a6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ArcoLareira
+    100002: Cadeira
+    100004: Copo
+    100006: Cube
+    100008: FundoLareira
+    100010: Garrafa
+    100012: Lareira
+    100014: Luminaria
+    100016: Lustre
+    100018: MarmoreLareira
+    100020: Mesa
+    100022: Mesinha
+    100024: Mesinha2
+    100026: //RootNode
+    100028: pernamesinha
+    100030: Pintura do retrato
+    100032: Pintura do retrato.001
+    100034: Poltrona
+    100036: Prateira
+    100038: Prato
+    100040: Quadro
+    100042: Retrato
+    100044: Retrato.001
+    100046: "Sof\xE1"
+    100048: Spot
+    100050: Tapete
+    100052: Vaso
+    400000: ArcoLareira
+    400002: Cadeira
+    400004: Copo
+    400006: Cube
+    400008: FundoLareira
+    400010: Garrafa
+    400012: Lareira
+    400014: Luminaria
+    400016: Lustre
+    400018: MarmoreLareira
+    400020: Mesa
+    400022: Mesinha
+    400024: Mesinha2
+    400026: //RootNode
+    400028: pernamesinha
+    400030: Pintura do retrato
+    400032: Pintura do retrato.001
+    400034: Poltrona
+    400036: Prateira
+    400038: Prato
+    400040: Quadro
+    400042: Retrato
+    400044: Retrato.001
+    400046: "Sof\xE1"
+    400048: Spot
+    400050: Tapete
+    400052: Vaso
+    2100000: No Name
+    2300000: ArcoLareira
+    2300002: Cadeira
+    2300004: Copo
+    2300006: Cube
+    2300008: FundoLareira
+    2300010: Garrafa
+    2300012: Lareira
+    2300014: Luminaria
+    2300016: Lustre
+    2300018: MarmoreLareira
+    2300020: Mesa
+    2300022: Mesinha
+    2300024: Mesinha2
+    2300026: pernamesinha
+    2300028: Pintura do retrato
+    2300030: Pintura do retrato.001
+    2300032: Poltrona
+    2300034: Prateira
+    2300036: Prato
+    2300038: Quadro
+    2300040: Retrato
+    2300042: Retrato.001
+    2300044: "Sof\xE1"
+    2300046: Tapete
+    2300048: Vaso
+    3300000: ArcoLareira
+    3300002: Cadeira
+    3300004: Copo
+    3300006: Cube
+    3300008: FundoLareira
+    3300010: Garrafa
+    3300012: Lareira
+    3300014: Luminaria
+    3300016: Lustre
+    3300018: MarmoreLareira
+    3300020: Mesa
+    3300022: Mesinha
+    3300024: Mesinha2
+    3300026: pernamesinha
+    3300028: Pintura do retrato
+    3300030: Pintura do retrato.001
+    3300032: Poltrona
+    3300034: Prateira
+    3300036: Prato
+    3300038: Quadro
+    3300040: Retrato
+    3300042: Retrato.001
+    3300044: "Sof\xE1"
+    3300046: Tapete
+    3300048: Vaso
+    4300000: Lareira
+    4300002: MarmoreLareira
+    4300004: ArcoLareira
+    4300006: FundoLareira
+    4300008: Vaso
+    4300010: Garrafa
+    4300012: Retrato
+    4300014: Pintura do retrato
+    4300016: Retrato.001
+    4300018: Pintura do retrato.001
+    4300020: Cube
+    4300022: Tapete
+    4300024: Luminaria
+    4300026: Quadro
+    4300028: Mesinha2
+    4300030: pernamesinha
+    4300032: "Sof\xE1"
+    4300034: Mesinha
+    4300036: Poltrona
+    4300038: Copo
+    4300040: Mesa
+    4300042: Prateira
+    4300044: Lustre
+    4300046: Cadeira
+    4300048: Prato
+    6400000: ArcoLareira
+    6400002: Cadeira
+    6400004: Copo
+    6400006: Cube
+    6400008: FundoLareira
+    6400010: Garrafa
+    6400012: Lareira
+    6400014: Luminaria
+    6400016: Lustre
+    6400018: MarmoreLareira
+    6400020: Mesa
+    6400022: Mesinha
+    6400024: Mesinha2
+    6400026: pernamesinha
+    6400028: Pintura do retrato
+    6400030: Pintura do retrato.001
+    6400032: Poltrona
+    6400034: Prateira
+    6400036: Prato
+    6400038: Quadro
+    6400040: Retrato
+    6400042: Retrato.001
+    6400044: "Sof\xE1"
+    6400046: Tapete
+    6400048: Vaso
+    10800000: Spot
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
