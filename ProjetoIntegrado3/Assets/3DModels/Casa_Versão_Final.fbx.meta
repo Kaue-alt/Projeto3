@@ -1,0 +1,529 @@
+fileFormatVersion: 2
+guid: b890ce44751f71345b8e77c3ca0ed769
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 35 cm
+    100002: 35cm
+    100004: Armature
+    100006: //RootNode
+    100008: Ch46
+    100010: "ch\xE3o baixo 2"
+    100012: "ch\xE3o inferior"
+    100014: "ch\xE3o lateral"
+    100016: "ch\xE3o normal"
+    100018: "ch\xE3o superior"
+    100020: Cube
+    100022: Cube.001
+    100024: Cube.002
+    100026: Cube.003
+    100028: Cube.005
+    100030: Cube.006
+    100032: Cube.007
+    100034: Cube.008
+    100036: Cube.009
+    100038: Cube.010
+    100040: Cube.011
+    100042: Cube.012
+    100044: Cube.013
+    100046: Cube.016
+    100048: Cube.017
+    100050: Cube.018
+    100052: Cube.019
+    100054: Cube.021
+    100056: Escada
+    100058: Escada principal
+    100060: mixamorig:Head
+    100062: mixamorig:HeadTop_End
+    100064: mixamorig:HeadTop_End_end
+    100066: mixamorig:Hips
+    100068: mixamorig:LeftArm
+    100070: mixamorig:LeftFoot
+    100072: mixamorig:LeftForeArm
+    100074: mixamorig:LeftHand
+    100076: mixamorig:LeftHandIndex1
+    100078: mixamorig:LeftHandIndex2
+    100080: mixamorig:LeftHandIndex3
+    100082: mixamorig:LeftHandIndex4
+    100084: mixamorig:LeftHandIndex4_end
+    100086: mixamorig:LeftHandMiddle1
+    100088: mixamorig:LeftHandMiddle2
+    100090: mixamorig:LeftHandMiddle3
+    100092: mixamorig:LeftHandMiddle4
+    100094: mixamorig:LeftHandMiddle4_end
+    100096: mixamorig:LeftHandPinky1
+    100098: mixamorig:LeftHandPinky2
+    100100: mixamorig:LeftHandPinky3
+    100102: mixamorig:LeftHandPinky4
+    100104: mixamorig:LeftHandPinky4_end
+    100106: mixamorig:LeftHandRing1
+    100108: mixamorig:LeftHandRing2
+    100110: mixamorig:LeftHandRing3
+    100112: mixamorig:LeftHandRing4
+    100114: mixamorig:LeftHandRing4_end
+    100116: mixamorig:LeftHandThumb1
+    100118: mixamorig:LeftHandThumb2
+    100120: mixamorig:LeftHandThumb3
+    100122: mixamorig:LeftHandThumb4
+    100124: mixamorig:LeftHandThumb4_end
+    100126: mixamorig:LeftLeg
+    100128: mixamorig:LeftShoulder
+    100130: mixamorig:LeftToe_End
+    100132: mixamorig:LeftToe_End_end
+    100134: mixamorig:LeftToeBase
+    100136: mixamorig:LeftUpLeg
+    100138: mixamorig:Neck
+    100140: mixamorig:RightArm
+    100142: mixamorig:RightFoot
+    100144: mixamorig:RightForeArm
+    100146: mixamorig:RightHand
+    100148: mixamorig:RightHandIndex1
+    100150: mixamorig:RightHandIndex2
+    100152: mixamorig:RightHandIndex3
+    100154: mixamorig:RightHandIndex4
+    100156: mixamorig:RightHandIndex4_end
+    100158: mixamorig:RightHandMiddle1
+    100160: mixamorig:RightHandMiddle2
+    100162: mixamorig:RightHandMiddle3
+    100164: mixamorig:RightHandMiddle4
+    100166: mixamorig:RightHandMiddle4_end
+    100168: mixamorig:RightHandPinky1
+    100170: mixamorig:RightHandPinky2
+    100172: mixamorig:RightHandPinky3
+    100174: mixamorig:RightHandPinky4
+    100176: mixamorig:RightHandPinky4_end
+    100178: mixamorig:RightHandRing1
+    100180: mixamorig:RightHandRing2
+    100182: mixamorig:RightHandRing3
+    100184: mixamorig:RightHandRing4
+    100186: mixamorig:RightHandRing4_end
+    100188: mixamorig:RightHandThumb1
+    100190: mixamorig:RightHandThumb2
+    100192: mixamorig:RightHandThumb3
+    100194: mixamorig:RightHandThumb4
+    100196: mixamorig:RightHandThumb4_end
+    100198: mixamorig:RightLeg
+    100200: mixamorig:RightShoulder
+    100202: mixamorig:RightToe_End
+    100204: mixamorig:RightToe_End_end
+    100206: mixamorig:RightToeBase
+    100208: mixamorig:RightUpLeg
+    100210: mixamorig:Spine
+    100212: mixamorig:Spine1
+    100214: mixamorig:Spine2
+    100216: Parade sala 2
+    100218: Parede Corredor
+    100220: Parede Corredor.001
+    100222: Parede Corredor.002
+    100224: Parede Corredor.003
+    100226: Parede Corredor.004
+    100228: Parede Corredor.005
+    100230: "Parede externa 1\xBA andar"
+    100232: "Parede externa 2\xBA andar"
+    100234: Parede sala 1
+    100236: Parede sala 1.001
+    100238: Parede tampa buraco
+    100240: Parte escada 1
+    100242: Parte escada 2
+    100244: Parte escada 3
+    100246: Quarto M
+    100248: 'Quarto M '
+    100250: Telhado
+    400000: 35 cm
+    400002: 35cm
+    400004: Armature
+    400006: //RootNode
+    400008: Ch46
+    400010: "ch\xE3o baixo 2"
+    400012: "ch\xE3o inferior"
+    400014: "ch\xE3o lateral"
+    400016: "ch\xE3o normal"
+    400018: "ch\xE3o superior"
+    400020: Cube
+    400022: Cube.001
+    400024: Cube.002
+    400026: Cube.003
+    400028: Cube.005
+    400030: Cube.006
+    400032: Cube.007
+    400034: Cube.008
+    400036: Cube.009
+    400038: Cube.010
+    400040: Cube.011
+    400042: Cube.012
+    400044: Cube.013
+    400046: Cube.016
+    400048: Cube.017
+    400050: Cube.018
+    400052: Cube.019
+    400054: Cube.021
+    400056: Escada
+    400058: Escada principal
+    400060: mixamorig:Head
+    400062: mixamorig:HeadTop_End
+    400064: mixamorig:HeadTop_End_end
+    400066: mixamorig:Hips
+    400068: mixamorig:LeftArm
+    400070: mixamorig:LeftFoot
+    400072: mixamorig:LeftForeArm
+    400074: mixamorig:LeftHand
+    400076: mixamorig:LeftHandIndex1
+    400078: mixamorig:LeftHandIndex2
+    400080: mixamorig:LeftHandIndex3
+    400082: mixamorig:LeftHandIndex4
+    400084: mixamorig:LeftHandIndex4_end
+    400086: mixamorig:LeftHandMiddle1
+    400088: mixamorig:LeftHandMiddle2
+    400090: mixamorig:LeftHandMiddle3
+    400092: mixamorig:LeftHandMiddle4
+    400094: mixamorig:LeftHandMiddle4_end
+    400096: mixamorig:LeftHandPinky1
+    400098: mixamorig:LeftHandPinky2
+    400100: mixamorig:LeftHandPinky3
+    400102: mixamorig:LeftHandPinky4
+    400104: mixamorig:LeftHandPinky4_end
+    400106: mixamorig:LeftHandRing1
+    400108: mixamorig:LeftHandRing2
+    400110: mixamorig:LeftHandRing3
+    400112: mixamorig:LeftHandRing4
+    400114: mixamorig:LeftHandRing4_end
+    400116: mixamorig:LeftHandThumb1
+    400118: mixamorig:LeftHandThumb2
+    400120: mixamorig:LeftHandThumb3
+    400122: mixamorig:LeftHandThumb4
+    400124: mixamorig:LeftHandThumb4_end
+    400126: mixamorig:LeftLeg
+    400128: mixamorig:LeftShoulder
+    400130: mixamorig:LeftToe_End
+    400132: mixamorig:LeftToe_End_end
+    400134: mixamorig:LeftToeBase
+    400136: mixamorig:LeftUpLeg
+    400138: mixamorig:Neck
+    400140: mixamorig:RightArm
+    400142: mixamorig:RightFoot
+    400144: mixamorig:RightForeArm
+    400146: mixamorig:RightHand
+    400148: mixamorig:RightHandIndex1
+    400150: mixamorig:RightHandIndex2
+    400152: mixamorig:RightHandIndex3
+    400154: mixamorig:RightHandIndex4
+    400156: mixamorig:RightHandIndex4_end
+    400158: mixamorig:RightHandMiddle1
+    400160: mixamorig:RightHandMiddle2
+    400162: mixamorig:RightHandMiddle3
+    400164: mixamorig:RightHandMiddle4
+    400166: mixamorig:RightHandMiddle4_end
+    400168: mixamorig:RightHandPinky1
+    400170: mixamorig:RightHandPinky2
+    400172: mixamorig:RightHandPinky3
+    400174: mixamorig:RightHandPinky4
+    400176: mixamorig:RightHandPinky4_end
+    400178: mixamorig:RightHandRing1
+    400180: mixamorig:RightHandRing2
+    400182: mixamorig:RightHandRing3
+    400184: mixamorig:RightHandRing4
+    400186: mixamorig:RightHandRing4_end
+    400188: mixamorig:RightHandThumb1
+    400190: mixamorig:RightHandThumb2
+    400192: mixamorig:RightHandThumb3
+    400194: mixamorig:RightHandThumb4
+    400196: mixamorig:RightHandThumb4_end
+    400198: mixamorig:RightLeg
+    400200: mixamorig:RightShoulder
+    400202: mixamorig:RightToe_End
+    400204: mixamorig:RightToe_End_end
+    400206: mixamorig:RightToeBase
+    400208: mixamorig:RightUpLeg
+    400210: mixamorig:Spine
+    400212: mixamorig:Spine1
+    400214: mixamorig:Spine2
+    400216: Parade sala 2
+    400218: Parede Corredor
+    400220: Parede Corredor.001
+    400222: Parede Corredor.002
+    400224: Parede Corredor.003
+    400226: Parede Corredor.004
+    400228: Parede Corredor.005
+    400230: "Parede externa 1\xBA andar"
+    400232: "Parede externa 2\xBA andar"
+    400234: Parede sala 1
+    400236: Parede sala 1.001
+    400238: Parede tampa buraco
+    400240: Parte escada 1
+    400242: Parte escada 2
+    400244: Parte escada 3
+    400246: Quarto M
+    400248: 'Quarto M '
+    400250: Telhado
+    2100000: No Name
+    2100002: Ch46_body
+    2300000: 35 cm
+    2300002: 35cm
+    2300004: "ch\xE3o baixo 2"
+    2300006: "ch\xE3o inferior"
+    2300008: "ch\xE3o lateral"
+    2300010: "ch\xE3o normal"
+    2300012: "ch\xE3o superior"
+    2300014: Cube
+    2300016: Cube.001
+    2300018: Cube.002
+    2300020: Cube.003
+    2300022: Cube.005
+    2300024: Cube.006
+    2300026: Cube.007
+    2300028: Cube.008
+    2300030: Cube.009
+    2300032: Cube.010
+    2300034: Cube.011
+    2300036: Cube.012
+    2300038: Cube.013
+    2300040: Cube.016
+    2300042: Cube.017
+    2300044: Cube.018
+    2300046: Cube.019
+    2300048: Cube.021
+    2300050: Escada
+    2300052: Escada principal
+    2300054: Parade sala 2
+    2300056: Parede Corredor
+    2300058: Parede Corredor.001
+    2300060: Parede Corredor.002
+    2300062: Parede Corredor.003
+    2300064: Parede Corredor.004
+    2300066: Parede Corredor.005
+    2300068: "Parede externa 1\xBA andar"
+    2300070: "Parede externa 2\xBA andar"
+    2300072: Parede sala 1
+    2300074: Parede sala 1.001
+    2300076: Parede tampa buraco
+    2300078: Parte escada 1
+    2300080: Parte escada 2
+    2300082: Parte escada 3
+    2300084: Quarto M
+    2300086: 'Quarto M '
+    2300088: Telhado
+    3300000: 35 cm
+    3300002: 35cm
+    3300004: "ch\xE3o baixo 2"
+    3300006: "ch\xE3o inferior"
+    3300008: "ch\xE3o lateral"
+    3300010: "ch\xE3o normal"
+    3300012: "ch\xE3o superior"
+    3300014: Cube
+    3300016: Cube.001
+    3300018: Cube.002
+    3300020: Cube.003
+    3300022: Cube.005
+    3300024: Cube.006
+    3300026: Cube.007
+    3300028: Cube.008
+    3300030: Cube.009
+    3300032: Cube.010
+    3300034: Cube.011
+    3300036: Cube.012
+    3300038: Cube.013
+    3300040: Cube.016
+    3300042: Cube.017
+    3300044: Cube.018
+    3300046: Cube.019
+    3300048: Cube.021
+    3300050: Escada
+    3300052: Escada principal
+    3300054: Parade sala 2
+    3300056: Parede Corredor
+    3300058: Parede Corredor.001
+    3300060: Parede Corredor.002
+    3300062: Parede Corredor.003
+    3300064: Parede Corredor.004
+    3300066: Parede Corredor.005
+    3300068: "Parede externa 1\xBA andar"
+    3300070: "Parede externa 2\xBA andar"
+    3300072: Parede sala 1
+    3300074: Parede sala 1.001
+    3300076: Parede tampa buraco
+    3300078: Parte escada 1
+    3300080: Parte escada 2
+    3300082: Parte escada 3
+    3300084: Quarto M
+    3300086: 'Quarto M '
+    3300088: Telhado
+    4300000: Cube
+    4300002: Cube.001
+    4300004: Cube.003
+    4300006: Cube.005
+    4300008: Cube.006
+    4300010: Cube.007
+    4300012: Cube.008
+    4300014: Cube.010
+    4300016: Cube.012
+    4300018: Parede tampa buraco
+    4300020: Parade sala 2
+    4300022: Parede sala 1
+    4300024: Parte escada 3
+    4300026: Escada principal
+    4300028: Parte escada 2
+    4300030: Parte escada 1
+    4300032: Cube.002
+    4300034: Cube.009
+    4300036: "Parede externa 2\xBA andar"
+    4300038: "Parede externa 1\xBA andar"
+    4300040: "ch\xE3o normal"
+    4300042: "ch\xE3o baixo 2"
+    4300044: Escada
+    4300046: Ch46
+    4300048: "ch\xE3o superior"
+    4300050: "ch\xE3o lateral"
+    4300052: "ch\xE3o inferior"
+    4300054: Parede sala 1.001
+    4300056: 'Quarto M '
+    4300058: Parede Corredor
+    4300060: Quarto M
+    4300062: Parede Corredor.001
+    4300064: Parede Corredor.002
+    4300066: Parede Corredor.003
+    4300068: Parede Corredor.004
+    4300070: Parede Corredor.005
+    4300072: Cube.011
+    4300074: Cube.018
+    4300076: Cube.021
+    4300078: 35cm
+    4300080: 35 cm
+    4300082: Cube.013
+    4300084: Cube.016
+    4300086: Cube.017
+    4300088: Cube.019
+    4300090: Telhado
+    6400000: 35 cm
+    6400002: 35cm
+    6400004: "ch\xE3o baixo 2"
+    6400006: "ch\xE3o inferior"
+    6400008: "ch\xE3o lateral"
+    6400010: "ch\xE3o normal"
+    6400012: "ch\xE3o superior"
+    6400014: Cube
+    6400016: Cube.001
+    6400018: Cube.002
+    6400020: Cube.003
+    6400022: Cube.005
+    6400024: Cube.006
+    6400026: Cube.007
+    6400028: Cube.008
+    6400030: Cube.009
+    6400032: Cube.010
+    6400034: Cube.011
+    6400036: Cube.012
+    6400038: Cube.013
+    6400040: Cube.016
+    6400042: Cube.017
+    6400044: Cube.018
+    6400046: Cube.019
+    6400048: Cube.021
+    6400050: Escada
+    6400052: Escada principal
+    6400054: Parade sala 2
+    6400056: Parede Corredor
+    6400058: Parede Corredor.001
+    6400060: Parede Corredor.002
+    6400062: Parede Corredor.003
+    6400064: Parede Corredor.004
+    6400066: Parede Corredor.005
+    6400068: "Parede externa 1\xBA andar"
+    6400070: "Parede externa 2\xBA andar"
+    6400072: Parede sala 1
+    6400074: Parede sala 1.001
+    6400076: Parede tampa buraco
+    6400078: Parte escada 1
+    6400080: Parte escada 2
+    6400082: Parte escada 3
+    6400084: Quarto M
+    6400086: 'Quarto M '
+    6400088: Telhado
+    7400000: Armature|Armature|mixamo.com|Layer0
+    9500000: //RootNode
+    13700000: Ch46
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
