@@ -120,12 +120,12 @@ Light:
   serializedVersion: 8
   m_Type: 2
   m_Color: {r: 1, g: 0.79234976, b: 0.47540987, a: 1}
-  m_Intensity: 2
-  m_Range: 7.55
+  m_Intensity: 1
+  m_Range: 2.13
   m_SpotAngle: 30
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
+    m_Type: 0
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
@@ -1988,7 +1988,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4938087417173687110}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -10, y: -0.39, z: 1.82}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -2035,7 +2035,7 @@ CharacterController:
   m_StepOffset: 0.3
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
-  m_Center: {x: 0, y: 0.7, z: 0}
+  m_Center: {x: 0, y: 0.74, z: 0}
 --- !u!114 &4938087416188505511
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2066,7 +2066,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nibuo: {fileID: 7929947279583721718, guid: 5b50c11888d0ed142a05b8728150a044, type: 3}
   cameraPlayer: {fileID: 0}
-  suportPlayer: {fileID: 0}
+  suportPlayer: {fileID: 4938087416648465291}
   power: 10
 --- !u!1 &4938087417173687112
 GameObject:

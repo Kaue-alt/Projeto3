@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    
-   
+
+    public bool alive = true;
     public float walkSpeed = 1;
     public float runSpeed = 2;
     
@@ -110,6 +110,14 @@ public class PlayerController : MonoBehaviour
         {
             controller.center = new Vector3(0, 0.7f, 0);
             controller.height = 1.4f;
+        }
+    }
+
+    void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.name == "Eyes")
+        {
+            other.transform.parent.GetComponent<Enemy>().checkSight();
         }
     }
 

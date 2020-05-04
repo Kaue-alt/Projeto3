@@ -148,12 +148,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Ch30_Body
-    second: {fileID: 2100000, guid: 49afbf8e58d4bbd49ac05c46ae289abc, type: 2}
+    second: {fileID: 2100002, guid: 7a7c8fe9685897b4e8f1ca03ad93aa1b, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Ch30_Body1
-    second: {fileID: 2100000, guid: 49afbf8e58d4bbd49ac05c46ae289abc, type: 2}
+    second: {fileID: 2100000, guid: 7a7c8fe9685897b4e8f1ca03ad93aa1b, type: 3}
   materials:
     importMaterials: 1
     materialName: 0
