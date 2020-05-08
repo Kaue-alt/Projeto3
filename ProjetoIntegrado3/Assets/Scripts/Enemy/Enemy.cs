@@ -13,7 +13,7 @@ public class Enemy : MonoBehaviour
     private NavMeshAgent nav;
     private AudioSource sound;
     private Animator anim;
-    private string state = "idle";
+    public string state = "idle";
     private bool alive = true;
     private bool highAlert = false;
     private float wait = 0f;

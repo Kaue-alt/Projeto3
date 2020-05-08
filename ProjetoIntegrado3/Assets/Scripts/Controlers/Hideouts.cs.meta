@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 836aba4c071ddf54cab57575873dea63
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hideoutcam: {instanceID: 0}
+  - playercam: {instanceID: 0}
+  - interactiontext: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
