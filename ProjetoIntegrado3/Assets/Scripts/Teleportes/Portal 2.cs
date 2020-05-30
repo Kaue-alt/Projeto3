@@ -4,15 +4,20 @@ using UnityEngine;
 
 public class Portal2 : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public string tagDestino;
+    private Transform portalDestino;
     void Start()
     {
-        
+        portalDestino = GameObject.FindGameObjectWithTag(tagDestino).transform;
     }
 
-    // Update is called once per frame
-    void Update()
+    void OnTriggerEnter(Collider col)
     {
-        
+        if (col.tag == "Player")
+        {
+            Vector3 posPlayer = portalDestino.transform.position;
+            posPlayer.z += 2.0f;
+            col.transform.position = posPlayer;
+        }
     }
 }
