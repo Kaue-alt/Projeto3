@@ -6,8 +6,12 @@ using UnityEngine.UI;
 public class HidingRaycast : MonoBehaviour
 {
     public Camera cam;
-
+   
     public GameObject enemy;
+
+    public GameObject thePlayer;
+
+    public Transform teleportTarget;
 
     Text messageText;
     private void Awake()
@@ -50,7 +54,14 @@ public class HidingRaycast : MonoBehaviour
                     hit.transform.gameObject.GetComponent<Hideouts>().enabled = true;
                 }
             }
-            
+            if (hit.transform.tag == "Teleport")
+            {
+                messageText.text = "Press E to Teleport";
+                if (Input.GetKeyDown(KeyCode.E))
+                {
+                    thePlayer.transform.position = teleportTarget.transform.position;
+                }
+            }
         }
     }
 }
