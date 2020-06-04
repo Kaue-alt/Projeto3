@@ -1,419 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &6153535113160366482
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 6153535113160366481}
-  - component: {fileID: 6153535113160366480}
-  m_Layer: 0
-  m_Name: Point Light (5)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &6153535113160366481
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6153535113160366482}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 12, y: 7.64, z: -3.9}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 6153535114274353928}
-  m_RootOrder: 49
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!108 &6153535113160366480
-Light:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6153535113160366482}
-  m_Enabled: 1
-  serializedVersion: 8
-  m_Type: 2
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 2
-  m_Range: 12.26
-  m_SpotAngle: 30
-  m_CookieSize: 10
-  m_Shadows:
-    m_Type: 0
-    m_Resolution: -1
-    m_CustomResolution: -1
-    m_Strength: 1
-    m_Bias: 0.02
-    m_NormalBias: 0.1
-    m_NearPlane: 0.1
-  m_Cookie: {fileID: 0}
-  m_DrawHalo: 0
-  m_Flare: {fileID: 0}
-  m_RenderMode: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_Lightmapping: 4
-  m_LightShadowCasterMode: 0
-  m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
-  m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
-  m_ShadowRadius: 0
-  m_ShadowAngle: 0
---- !u!1 &6153535113335252547
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 6153535113335252546}
-  - component: {fileID: 6153535113335252545}
-  m_Layer: 0
-  m_Name: Point Light (3)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &6153535113335252546
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6153535113335252547}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.34, y: 7.64, z: 5.4}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 6153535114274353928}
-  m_RootOrder: 47
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!108 &6153535113335252545
-Light:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6153535113335252547}
-  m_Enabled: 1
-  serializedVersion: 8
-  m_Type: 2
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 2
-  m_Range: 12.26
-  m_SpotAngle: 30
-  m_CookieSize: 10
-  m_Shadows:
-    m_Type: 0
-    m_Resolution: -1
-    m_CustomResolution: -1
-    m_Strength: 1
-    m_Bias: 0.02
-    m_NormalBias: 0.1
-    m_NearPlane: 0.1
-  m_Cookie: {fileID: 0}
-  m_DrawHalo: 0
-  m_Flare: {fileID: 0}
-  m_RenderMode: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_Lightmapping: 4
-  m_LightShadowCasterMode: 0
-  m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
-  m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
-  m_ShadowRadius: 0
-  m_ShadowAngle: 0
---- !u!1 &6153535113548511136
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 6153535113548511143}
-  - component: {fileID: 6153535113548511142}
-  m_Layer: 0
-  m_Name: Point Light (2)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &6153535113548511143
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6153535113548511136}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.34, y: 7.64, z: 0.04}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 6153535114274353928}
-  m_RootOrder: 46
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!108 &6153535113548511142
-Light:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6153535113548511136}
-  m_Enabled: 1
-  serializedVersion: 8
-  m_Type: 2
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 2
-  m_Range: 12.26
-  m_SpotAngle: 30
-  m_CookieSize: 10
-  m_Shadows:
-    m_Type: 0
-    m_Resolution: -1
-    m_CustomResolution: -1
-    m_Strength: 1
-    m_Bias: 0.02
-    m_NormalBias: 0.1
-    m_NearPlane: 0.1
-  m_Cookie: {fileID: 0}
-  m_DrawHalo: 0
-  m_Flare: {fileID: 0}
-  m_RenderMode: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_Lightmapping: 4
-  m_LightShadowCasterMode: 0
-  m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
-  m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
-  m_ShadowRadius: 0
-  m_ShadowAngle: 0
---- !u!1 &6153535113777708946
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 6153535113777708945}
-  - component: {fileID: 6153535113777708944}
-  m_Layer: 0
-  m_Name: Point Light
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &6153535113777708945
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6153535113777708946}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.41, y: 7.64, z: -3.35}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 6153535114274353928}
-  m_RootOrder: 44
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!108 &6153535113777708944
-Light:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6153535113777708946}
-  m_Enabled: 1
-  serializedVersion: 8
-  m_Type: 2
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 2
-  m_Range: 12.26
-  m_SpotAngle: 30
-  m_CookieSize: 10
-  m_Shadows:
-    m_Type: 0
-    m_Resolution: -1
-    m_CustomResolution: -1
-    m_Strength: 1
-    m_Bias: 0.02
-    m_NormalBias: 0.1
-    m_NearPlane: 0.1
-  m_Cookie: {fileID: 0}
-  m_DrawHalo: 0
-  m_Flare: {fileID: 0}
-  m_RenderMode: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_Lightmapping: 4
-  m_LightShadowCasterMode: 0
-  m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
-  m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
-  m_ShadowRadius: 0
-  m_ShadowAngle: 0
---- !u!1 &6153535114084497742
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 6153535114084497741}
-  - component: {fileID: 6153535114084497740}
-  m_Layer: 0
-  m_Name: Point Light (1)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &6153535114084497741
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6153535114084497742}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.34, y: 7.64, z: -5.92}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 6153535114274353928}
-  m_RootOrder: 45
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!108 &6153535114084497740
-Light:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6153535114084497742}
-  m_Enabled: 1
-  serializedVersion: 8
-  m_Type: 2
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 2
-  m_Range: 12.26
-  m_SpotAngle: 30
-  m_CookieSize: 10
-  m_Shadows:
-    m_Type: 0
-    m_Resolution: -1
-    m_CustomResolution: -1
-    m_Strength: 1
-    m_Bias: 0.02
-    m_NormalBias: 0.1
-    m_NearPlane: 0.1
-  m_Cookie: {fileID: 0}
-  m_DrawHalo: 0
-  m_Flare: {fileID: 0}
-  m_RenderMode: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_Lightmapping: 4
-  m_LightShadowCasterMode: 0
-  m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
-  m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
-  m_ShadowRadius: 0
-  m_ShadowAngle: 0
---- !u!1 &6153535114187356475
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 6153535114187356474}
-  - component: {fileID: 6153535114187356473}
-  m_Layer: 0
-  m_Name: Point Light (4)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &6153535114187356474
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6153535114187356475}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.2, y: 7.64, z: 5.4}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 6153535114274353928}
-  m_RootOrder: 48
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!108 &6153535114187356473
-Light:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6153535114187356475}
-  m_Enabled: 1
-  serializedVersion: 8
-  m_Type: 2
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 2
-  m_Range: 12.26
-  m_SpotAngle: 30
-  m_CookieSize: 10
-  m_Shadows:
-    m_Type: 0
-    m_Resolution: -1
-    m_CustomResolution: -1
-    m_Strength: 1
-    m_Bias: 0.02
-    m_NormalBias: 0.1
-    m_NearPlane: 0.1
-  m_Cookie: {fileID: 0}
-  m_DrawHalo: 0
-  m_Flare: {fileID: 0}
-  m_RenderMode: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_Lightmapping: 4
-  m_LightShadowCasterMode: 0
-  m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
-  m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
-  m_ShadowRadius: 0
-  m_ShadowAngle: 0
 --- !u!1 &6153535114273926656
 GameObject:
   m_ObjectHideFlags: 0
@@ -426,7 +12,7 @@ GameObject:
   - component: {fileID: 6153535114270962530}
   - component: {fileID: 6153535114271928610}
   - component: {fileID: 6153535114276012482}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Parede tampa buraco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -518,7 +104,7 @@ GameObject:
   - component: {fileID: 6153535114270962532}
   - component: {fileID: 6153535114271928612}
   - component: {fileID: 6153535114276012484}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Parede sala 1.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -610,7 +196,7 @@ GameObject:
   - component: {fileID: 6153535114270962534}
   - component: {fileID: 6153535114271928614}
   - component: {fileID: 6153535114276012486}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Parede sala 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -702,7 +288,7 @@ GameObject:
   - component: {fileID: 6153535114270962536}
   - component: {fileID: 6153535114271928616}
   - component: {fileID: 6153535114276012488}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: "Parede externa 2\xBA andar"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -794,7 +380,7 @@ GameObject:
   - component: {fileID: 6153535114270962538}
   - component: {fileID: 6153535114271928618}
   - component: {fileID: 6153535114276012490}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: "Parede externa 1\xBA andar"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -886,7 +472,7 @@ GameObject:
   - component: {fileID: 6153535114270962540}
   - component: {fileID: 6153535114271928620}
   - component: {fileID: 6153535114276012492}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Parede Corredor.005
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -978,7 +564,7 @@ GameObject:
   - component: {fileID: 6153535114270962542}
   - component: {fileID: 6153535114271928622}
   - component: {fileID: 6153535114276012494}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Parede Corredor.004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1070,7 +656,7 @@ GameObject:
   - component: {fileID: 6153535114270962512}
   - component: {fileID: 6153535114271928592}
   - component: {fileID: 6153535114276012464}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Parede Corredor.003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1162,13 +748,13 @@ GameObject:
   - component: {fileID: 6153535114270962550}
   - component: {fileID: 6153535114271928630}
   - component: {fileID: 6153535114276012502}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Telhado
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &6153535114274353908
 Transform:
   m_ObjectHideFlags: 0
@@ -1254,7 +840,7 @@ GameObject:
   - component: {fileID: 6153535114270962552}
   - component: {fileID: 6153535114271928632}
   - component: {fileID: 6153535114276012504}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: 'Quarto M '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1346,7 +932,7 @@ GameObject:
   - component: {fileID: 6153535114270962554}
   - component: {fileID: 6153535114271928634}
   - component: {fileID: 6153535114276012506}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Quarto M
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1438,7 +1024,7 @@ GameObject:
   - component: {fileID: 6153535114270962556}
   - component: {fileID: 6153535114271928636}
   - component: {fileID: 6153535114276012508}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Parte escada 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1530,7 +1116,7 @@ GameObject:
   - component: {fileID: 6153535114270962558}
   - component: {fileID: 6153535114271928638}
   - component: {fileID: 6153535114276012510}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Parte escada 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1622,7 +1208,7 @@ GameObject:
   - component: {fileID: 6153535114270962528}
   - component: {fileID: 6153535114271928608}
   - component: {fileID: 6153535114276012480}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Parte escada 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1714,7 +1300,7 @@ GameObject:
   - component: {fileID: 6153535114270962516}
   - component: {fileID: 6153535114271928596}
   - component: {fileID: 6153535114276012468}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Parede Corredor.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1806,7 +1392,7 @@ GameObject:
   - component: {fileID: 6153535114270962518}
   - component: {fileID: 6153535114271928598}
   - component: {fileID: 6153535114276012470}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Parede Corredor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1898,7 +1484,7 @@ GameObject:
   - component: {fileID: 6153535114270962520}
   - component: {fileID: 6153535114271928600}
   - component: {fileID: 6153535114276012472}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Parade sala 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1990,7 +1576,7 @@ GameObject:
   - component: {fileID: 6153535114270962470}
   - component: {fileID: 6153535114271928806}
   - component: {fileID: 6153535114276012422}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: "ch\xE3o lateral"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2005,7 +1591,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6153535114273926944}
   m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-  m_LocalPosition: {x: -10.331474, y: 3.9499996, z: 1.0216072}
+  m_LocalPosition: {x: -10.331474, y: 4.398, z: 1.02}
   m_LocalScale: {x: 100, y: 100, z: 100}
   m_Children: []
   m_Father: {fileID: 6153535114274353928}
@@ -2082,7 +1668,7 @@ GameObject:
   - component: {fileID: 6153535114270962472}
   - component: {fileID: 6153535114271928808}
   - component: {fileID: 6153535114276012424}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: "ch\xE3o inferior"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2174,7 +1760,7 @@ GameObject:
   - component: {fileID: 6153535114270962474}
   - component: {fileID: 6153535114271928810}
   - component: {fileID: 6153535114276012426}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: "ch\xE3o baixo 2"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2263,8 +1849,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6153535114274353928}
-  - component: {fileID: 6153535114281344238}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: "Casa_Vers\xE3o_Final"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2280,7 +1865,7 @@ Transform:
   m_GameObject: {fileID: 6153535114273926952}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1.37}
+  m_LocalScale: {x: 1.37, y: 1, z: 1.37}
   m_Children:
   - {fileID: 6153535114274353934}
   - {fileID: 6153535114274353932}
@@ -2326,34 +1911,9 @@ Transform:
   - {fileID: 6153535114274353912}
   - {fileID: 6153535114274353910}
   - {fileID: 6153535114274353908}
-  - {fileID: 6153535113777708945}
-  - {fileID: 6153535114084497741}
-  - {fileID: 6153535113548511143}
-  - {fileID: 6153535113335252546}
-  - {fileID: 6153535114187356474}
-  - {fileID: 6153535113160366481}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &6153535114281344238
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6153535114273926952}
-  m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: b890ce44751f71345b8e77c3ca0ed769, type: 3}
-  m_Controller: {fileID: 0}
-  m_CullingMode: 1
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &6153535114273926956
 GameObject:
   m_ObjectHideFlags: 0
@@ -2366,7 +1926,7 @@ GameObject:
   - component: {fileID: 6153535114270962476}
   - component: {fileID: 6153535114271928812}
   - component: {fileID: 6153535114276012428}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: 35cm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2458,7 +2018,7 @@ GameObject:
   - component: {fileID: 6153535114270962478}
   - component: {fileID: 6153535114271928814}
   - component: {fileID: 6153535114276012430}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: 35 cm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2550,7 +2110,7 @@ GameObject:
   - component: {fileID: 6153535114270962486}
   - component: {fileID: 6153535114271928822}
   - component: {fileID: 6153535114276012438}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Cube.006
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2642,7 +2202,7 @@ GameObject:
   - component: {fileID: 6153535114270962488}
   - component: {fileID: 6153535114271928824}
   - component: {fileID: 6153535114276012440}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Cube.005
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2734,7 +2294,7 @@ GameObject:
   - component: {fileID: 6153535114270962490}
   - component: {fileID: 6153535114271928826}
   - component: {fileID: 6153535114276012442}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Cube.003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2826,7 +2386,7 @@ GameObject:
   - component: {fileID: 6153535114270962492}
   - component: {fileID: 6153535114271928828}
   - component: {fileID: 6153535114276012444}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Cube.002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2918,7 +2478,7 @@ GameObject:
   - component: {fileID: 6153535114270962494}
   - component: {fileID: 6153535114271928830}
   - component: {fileID: 6153535114276012446}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Cube.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3010,7 +2570,7 @@ GameObject:
   - component: {fileID: 6153535114270962464}
   - component: {fileID: 6153535114271928800}
   - component: {fileID: 6153535114276012416}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3102,7 +2662,7 @@ GameObject:
   - component: {fileID: 6153535114270962466}
   - component: {fileID: 6153535114271928802}
   - component: {fileID: 6153535114276012418}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: "ch\xE3o superior"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3194,7 +2754,7 @@ GameObject:
   - component: {fileID: 6153535114270962468}
   - component: {fileID: 6153535114271928804}
   - component: {fileID: 6153535114276012420}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: "ch\xE3o normal"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3286,7 +2846,7 @@ GameObject:
   - component: {fileID: 6153535114270962502}
   - component: {fileID: 6153535114271928582}
   - component: {fileID: 6153535114276012454}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Cube.016
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3378,7 +2938,7 @@ GameObject:
   - component: {fileID: 6153535114270962504}
   - component: {fileID: 6153535114271928584}
   - component: {fileID: 6153535114276012456}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Cube.013
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3470,7 +3030,7 @@ GameObject:
   - component: {fileID: 6153535114270962506}
   - component: {fileID: 6153535114271928586}
   - component: {fileID: 6153535114276012458}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Cube.012
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3562,7 +3122,7 @@ GameObject:
   - component: {fileID: 6153535114270962508}
   - component: {fileID: 6153535114271928588}
   - component: {fileID: 6153535114276012460}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Cube.011
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3654,7 +3214,7 @@ GameObject:
   - component: {fileID: 6153535114270962510}
   - component: {fileID: 6153535114271928590}
   - component: {fileID: 6153535114276012462}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Cube.010
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3746,7 +3306,7 @@ GameObject:
   - component: {fileID: 6153535114270962480}
   - component: {fileID: 6153535114271928816}
   - component: {fileID: 6153535114276012432}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Cube.009
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3838,7 +3398,7 @@ GameObject:
   - component: {fileID: 6153535114270962482}
   - component: {fileID: 6153535114271928818}
   - component: {fileID: 6153535114276012434}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Cube.008
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3930,7 +3490,7 @@ GameObject:
   - component: {fileID: 6153535114270962484}
   - component: {fileID: 6153535114271928820}
   - component: {fileID: 6153535114276012436}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Cube.007
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4022,7 +3582,7 @@ GameObject:
   - component: {fileID: 6153535114270962522}
   - component: {fileID: 6153535114271928602}
   - component: {fileID: 6153535114276012474}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Escada principal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4114,7 +3674,7 @@ GameObject:
   - component: {fileID: 6153535114270962524}
   - component: {fileID: 6153535114271928604}
   - component: {fileID: 6153535114276012476}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Escada
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4206,7 +3766,7 @@ GameObject:
   - component: {fileID: 6153535114270962526}
   - component: {fileID: 6153535114271928606}
   - component: {fileID: 6153535114276012478}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Cube.021
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4298,7 +3858,7 @@ GameObject:
   - component: {fileID: 6153535114270962496}
   - component: {fileID: 6153535114271928576}
   - component: {fileID: 6153535114276012448}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Cube.019
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4390,7 +3950,7 @@ GameObject:
   - component: {fileID: 6153535114270962498}
   - component: {fileID: 6153535114271928578}
   - component: {fileID: 6153535114276012450}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Cube.018
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4482,7 +4042,7 @@ GameObject:
   - component: {fileID: 6153535114270962500}
   - component: {fileID: 6153535114271928580}
   - component: {fileID: 6153535114276012452}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Cube.017
   m_TagString: Untagged
   m_Icon: {fileID: 0}
